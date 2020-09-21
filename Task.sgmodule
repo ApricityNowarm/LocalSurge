@@ -1,6 +1,10 @@
 #!name=Task - All in one . By Cha 扩展 nzw9314,Tartarus2014
 #!Task任务集合
 #!system=ios
+
+
+[Script]
+
 彩云天气 = type = cron,cronexp = "30 6-21/3 * * *",wake-system = true,script-path=https://raw.githubusercontent.com/Peng-YM/QuanX/master/Tasks/caiyun.js
 
 # App价格版本监控
